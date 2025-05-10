@@ -1,0 +1,31 @@
+# Here Is The Steps To Run The Project:-
+
+# Install dependencies via pip:
+# pip install opencv-python mediapipe pyttsx3 numpy
+
+# To start the application, run the following command in the terminal:"python main.py"
+
+
+# Press 'q' to quit, 'c' to clear recognized text.
+
+# Gesture Descriptions and Their Corresponding Text:-
+
+# 1."hi" Gesture:
+# Description: All five fingers are extended (open hand).
+# How to Perform: Hold your hand up with all fingers fully extended and spread.
+
+# 2."hello" Gesture:
+# Description: Only the index finger is extended; all other fingers, including the thumb, are curled.
+# How to Perform: Point upward with your index finger while curling your thumb, middle, ring, and pinky fingers.
+
+# 3."eat" Gesture:
+# Description: All fingers and thumb are curled into a fist.
+# How to Perform: Make a fist with your hand, curling all fingers tightly.
+
+# 4."sleep" Gesture:
+# Description: Thumb and pinky finger are extended; index, middle, and ring fingers are curled.
+# How to Perform: Extend your thumb and pinky outward while curling the other three fingers into your palm (like the "hang loose" or "shaka" sign).
+
+# 5."walk" Gesture:
+# Description: Middle and ring fingers are extended; thumb, index, and pinky fingers are curled.
+# How to Perform: Extend your middle and ring fingers while curling your thumb, index, and pinky fingers into your palm.
